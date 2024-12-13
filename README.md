@@ -10,9 +10,12 @@ Learning Objectives
 
 ## Packages to install
 - Run these commands in your terminal 
-- - npm install
-- - npm install react-router-dom
+ - npm install
+ - npm install react-router-dom
+ - npm install axios
 
 ## To Run the application
 - Make sure that you're in the React-Star-Wars folder
-- type "npm run dev" in your terminal# React-Star-Wars
+- type "npm run dev" in your terminal
+
+

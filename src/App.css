@@ -14,3 +14,16 @@
   font-size: 2em;
 }
 
+.MyShips {
+  color: black;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+
+}
+
+.card{
+  width: 320px;
+  padding: 20px;
+  border: 1px solid black;
+  background-color:  skyblue;
+}
