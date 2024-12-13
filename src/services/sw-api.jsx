@@ -36,29 +36,3 @@ export const GetAllStarships = function(){
 
     )
 }
-
-// export const instance = axios.create({
-//     baseURL: "https://swapi.dev/api/starships/"
-// });
-
-
-// export const GetAllStarships =  function( {name, fetchUrl}) {
-//     const [title, setTitle ] = useState([])
-
-
-//     useEffect(() => {
-
-//         async function fetchData(){
-//             const request = await axios.get('https://swapi.dev/api/starships/');
-//             setTitle(request.data.results);
-//             return request;  
-//         }
-//         fetchData();
-//     }, [fetchUrl]);
-//     console.log(name)
-//     return (
-//     <>
-//     <h2> </h2>
-//     </>
-//     )
-// }; 
